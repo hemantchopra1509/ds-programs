@@ -1,0 +1,9 @@
+
+		Customer Record
+
+NAme : 
+hemant
+Pick : Peshawer
+Drop:Nowshera
+Distance: 40Km
+Charges: Rs196
